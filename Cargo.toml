@@ -1,6 +1,10 @@
 [package]
-name = "doodle_mnist"
+name = "fluffly-MNISTa"
 version = "0.1.0"
 authors = ["meidhy <meidhy.demagny@gmail.com>"]
 
 [dependencies]
+fluffy-penguin = { path = "../../fluffy-penguin" }
+rayon = ""
+mnist = ""
+rulinalg = ""
