@@ -1,0 +1,6 @@
+[package]
+name = "doodle_mnist"
+version = "0.1.0"
+authors = ["meidhy <meidhy.demagny@gmail.com>"]
+
+[dependencies]
